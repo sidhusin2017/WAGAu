@@ -66,7 +66,7 @@ Just to be sure that we receive the information we need, we did some validation 
 
 ```javascript
   var userName = req.body.result.parameters['given-name']
-  var webhookReply = 'Hello ' + userName + '! Welcome from the webhook.'
+  var webhookReply = 'Hellos ' + userName + '! Welcome from the ldap webhook.'
 
   // the most basic response
   res.status(200).json({
