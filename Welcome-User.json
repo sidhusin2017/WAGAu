@@ -15,7 +15,7 @@
           "text": "You can call me "
         },
         {
-          "text": "John",
+          "text": "subbu",
           "alias": "given-name",
           "meta": "@sys.given-name",
           "userDefined": false
@@ -31,7 +31,7 @@
           "text": "My friends call me "
         },
         {
-          "text": "John",
+          "text": "subbu",
           "alias": "given-name",
           "meta": "@sys.given-name",
           "userDefined": false
@@ -44,7 +44,7 @@
       "id": "ff80645b-fdbc-470a-8151-acd862d2863b",
       "data": [
         {
-          "text": "John",
+          "text": "subbu",
           "alias": "given-name",
           "meta": "@sys.given-name",
           "userDefined": false
@@ -63,7 +63,7 @@
           "text": "I am called "
         },
         {
-          "text": "John",
+          "text": "subbu",
           "alias": "given-name",
           "meta": "@sys.given-name",
           "userDefined": false
@@ -79,7 +79,7 @@
           "text": "Hello, this is "
         },
         {
-          "text": "John",
+          "text": "subbu",
           "alias": "given-name",
           "meta": "@sys.given-name",
           "userDefined": false
@@ -95,7 +95,7 @@
           "text": "Hi, my name is "
         },
         {
-          "text": "John",
+          "text": "subbu",
           "alias": "given-name",
           "meta": "@sys.given-name",
           "userDefined": false
@@ -125,7 +125,7 @@
       "messages": [
         {
           "type": 0,
-          "speech": "Welcome $given-name!"
+          "speech": "Thank you $given-name!"
         }
       ]
     }
