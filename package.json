@@ -16,10 +16,6 @@
   ],
   "author": "Siddarth Sub (https://40.121.149.23:9001/cce)",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.16.2",
-    "express": "^4.16.3"
-  },
   "engines": {
     "node": "8.1.4"
   },
