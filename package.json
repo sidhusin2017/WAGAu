@@ -4,7 +4,7 @@
   "description": "a sample webhook (with authentication) for api.ai",
   "repository": {
     "type": "git",
-    "url": "https://40.121.149.23:9001/cce"
+    "url": "git+https://40.121.149.23:9001/cce"
   },
   "main": "index.js",
   "scripts": {
@@ -16,9 +16,6 @@
   ],
   "author": "Siddarth Sub (https://40.121.149.23:9001/cce)",
   "license": "ISC",
-  "engines": {
-    "node": "8.1.4"
-  },
   "bugs": {
     "url": "https://40.121.149.23:9001/cce"
   },
