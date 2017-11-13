@@ -17,8 +17,8 @@
   "author": "Siddarth Sub (https://40.121.149.23:9001/cce)",
   "license": "ISC",
   "bugs": {
-    "url": "https://40.121.149.23:9001/cce"
+    "url": "http://40.121.149.23:9000/cce/landscape/nodes"
   },
-  "homepage": "https://40.121.149.23:9001/cce",
+  "homepage": "http://40.121.149.23:9000/cce/landscape/nodes",
   "devDependencies": {}
 }
