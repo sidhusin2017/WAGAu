@@ -4,7 +4,7 @@
   "description": "a sample webhook (with authentication) for api.ai",
   "repository": {
     "type": "git",
-    "url": "git+https://40.121.149.23:9001/cce"
+    "url": "http://40.121.149.23:9000/cce/landscape/nodes"
   },
   "main": "index.js",
   "scripts": {
