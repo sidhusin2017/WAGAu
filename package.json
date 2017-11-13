@@ -4,7 +4,7 @@
   "description": "a sample webhook (with authentication) for api.ai",
   "repository": {
     "type": "git",
-    "url": "http://40.121.149.23:9000/cce/landscape/nodes"
+    "url": "http://40.121.149.23:9000/cce/landscape/nodes?name=local"
   },
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,8 @@
   "author": "Siddarth Sub (https://40.121.149.23:9001/cce)",
   "license": "ISC",
   "bugs": {
-    "url": "http://40.121.149.23:9000/cce/landscape/nodes"
+    "url": "http://40.121.149.23:9000/cce/landscape/nodes?name=local"
   },
-  "homepage": "http://40.121.149.23:9000/cce/landscape/nodes",
+  "homepage": "http://40.121.149.23:9000/cce/landscape/nodes?name=local",
   "devDependencies": {}
 }
